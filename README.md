@@ -1,9 +1,35 @@
+# 👋 Hello, I'm Raylan Medeiros
 
-- 👋 Hi, I’m @Raylanmedeiros
-- 📚 College student of information systems
-- 🌱 I’m currently learning a couple of things and improving my code skills
+A Full Stack Developer and data scientist passionate about technology and innovation.  
+I am also pursuing a Master's degree in Computer Science with an emphasis on **Data Science** at the Federal University of Alagoas (UFAL).
 
-<hr/>
+---
+
+## 📊 Data Science Technologies
+
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- TensorFlow  
+- Jupyter Notebook  
+- Matplotlib / Seaborn  
+
+---
+
+## 🎓 Education
+
+- Bachelor's Degree in Information Systems  
+- Master's Degree in Computer Science with emphasis on Data Science – Federal University of Alagoas (UFAL) (ongoing)  
+
+---
+
+## 📂 Projects
+
+- [**Precatorios:**](https://github.com/Raylanmedeiros/precatorios) A platform for querying and managing court-ordered government debt payments (precatórios), improving access and information management.  
+- [**OuvidoriaPublica:**](https://github.com/Raylanmedeiros/OuvidoriaPublica) A Single Page Application (SPA) for public ombudsman services, featuring complaint, suggestion, and inquiry submissions with options for anonymous or identified input.  
+
+---
 <div align="center">
   
   <img src="https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b76115ed4ed6643aea3735bc3cba95c375e9abae67e20&rid=giphy.gif&ct=g" width="250px"/>
@@ -43,7 +69,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raylanmedeiros&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
-<!---
-Raylanmedeiros/Raylanmedeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
